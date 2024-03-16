@@ -42,7 +42,7 @@ while running:
 
     # -------------------------------------------------------- #
 
-    # flip() display to display to screen
+    # flip() display to put work on screen
     pg.display.flip()
 
     # limit fps to 60
